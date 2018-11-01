@@ -1,0 +1,68 @@
+body {
+    font-family: trebuchet;
+    background-color: darkslategrey;
+}
+
+h1 {
+    text-align: center;
+    padding: 1.5%;
+    color: rgb(210, 200, 120);
+}
+
+
+
+p {
+    font-size: 20px;
+}
+
+#titel1 {
+    background-color: black;
+}
+
+#voll1 {
+    height: 85px;
+}
+
+#navbar {
+    width: 100%;
+    background-color: black;
+    float: right;
+    height: 50px;
+}
+
+ul {
+    text-align: center;
+}
+
+li {
+    text-decoration: none;
+    display: inline-block;
+    white-space: nowrap;
+    padding: 0.5%;
+
+}
+
+a {
+    color: rgb(210, 200, 120);
+    padding: 5%;
+    font-size: 23px;
+}
+
+a:hover {
+    background-color: lightgray;
+    color: darkblue;
+    text-decoration: none;
+}
+
+#voll2 {
+    height: 250px;
+}
+
+#erklaerung {
+    background-color: black;
+    float: right;
+    width: 50%;
+    color: rgb(210, 200, 120);
+    font-size: 18px;
+    padding: 1%
+}
